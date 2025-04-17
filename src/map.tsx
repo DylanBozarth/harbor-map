@@ -92,7 +92,7 @@ const MapComponent = ({
         },
       });
   */
-      const response = await fetch("prod-locations.json");
+      const response = await fetch("/prod-locations.json");
       const data = await response.json();
       console.log(data);
       setLocations(data);
