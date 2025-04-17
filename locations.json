@@ -487,22 +487,7 @@
       "timezone": "CST6CDT",
       "id": 733
     },
-    {
-      "name": "Dardo's Test",
-      "description": null,
-      "address1": "dev-test",
-      "address2": null,
-      "lat": -32.17202753871048,
-      "lon": -59.403893069326344,
-      "city": "Macia",
-      "state": "Entre Rios",
-      "zip": "3177",
-      "country": "Argentina",
-      "notes": "Dev Test Location",
-      "accessHours": null,
-      "timezone": null,
-      "id": 261
-    },
+    
     {
       "name": "West Ave SW",
       "description": null,
@@ -543,22 +528,7 @@
       "timezone": "US/Pacific",
       "id": 189
     },
-    {
-      "name": "Victoria1",
-      "description": null,
-      "address1": "dev-test",
-      "address2": null,
-      "lat": 38.65,
-      "lon": -121.38,
-      "city": "McClellan Park",
-      "state": "California",
-      "zip": "95652",
-      "country": "United States",
-      "notes": null,
-      "accessHours": null,
-      "timezone": null,
-      "id": 117
-    },
+   
     {
       "name": "CLT-1",
       "description": null,
@@ -575,22 +545,7 @@
       "timezone": null,
       "id": 161
     },
-    {
-      "name": "Javier's Location",
-      "description": null,
-      "address1": "dev-test",
-      "address2": null,
-      "lat": -31.7639023,
-      "lon": -60.4861446,
-      "city": "Paraná",
-      "state": "Entre Ríos",
-      "zip": "3100",
-      "country": "Argentina",
-      "notes": null,
-      "accessHours": null,
-      "timezone": null,
-      "id": 113
-    },
+    
     {
       "name": "SacTown",
       "description": null,
@@ -655,22 +610,7 @@
       "timezone": "EST5EDT",
       "id": 658
     },
-    {
-      "name": "Aaron's Location",
-      "description": null,
-      "address1": "dev-test",
-      "address2": null,
-      "lat": 34.13845,
-      "lon": -118.34,
-      "city": "Los Angeles",
-      "state": "California",
-      "zip": "90068",
-      "country": "United States",
-      "notes": null,
-      "accessHours": null,
-      "timezone": null,
-      "id": 120
-    },
+   
     {
       "name": "Highland Dr",
       "description": null,
@@ -1183,22 +1123,7 @@
       "timezone": null,
       "id": 201
     },
-    {
-      "name": "UPS-QAShort5",
-      "description": null,
-      "address1": "dev-test",
-      "address2": null,
-      "lat": 38.65,
-      "lon": -121.38,
-      "city": "Sacramento",
-      "state": "California",
-      "zip": "95652",
-      "country": "United States",
-      "notes": null,
-      "accessHours": null,
-      "timezone": null,
-      "id": 35
-    },
+    
     {
       "name": "Main St",
       "description": null,
@@ -1303,22 +1228,7 @@
       "timezone": "EST",
       "id": 400
     },
-    {
-      "name": "Max's Location",
-      "description": null,
-      "address1": "dev-test",
-      "address2": null,
-      "lat": 42.43687,
-      "lon": 19.23477,
-      "city": "Podgorica",
-      "state": "Podgorica Municipality",
-      "zip": "81000",
-      "country": "Montenegro",
-      "notes": null,
-      "accessHours": null,
-      "timezone": null,
-      "id": 219
-    },
+    
     {
       "name": "JAX-28",
       "description": null,
@@ -2216,22 +2126,6 @@
       "id": 727
     },
     {
-      "name": "Cesar's Location",
-      "description": null,
-      "address1": "dev-test",
-      "address2": null,
-      "lat": 20.5908648,
-      "lon": -100.3962069,
-      "city": "Santiago de Querétaro",
-      "state": "Queretaro",
-      "zip": "76000",
-      "country": "Mexico",
-      "notes": "Nice pretend tower with 24hrs accesibility to the developer",
-      "accessHours": null,
-      "timezone": null,
-      "id": 18
-    },
-    {
       "name": "Tiption Dr",
       "description": null,
       "address1": "2141 Tiption Dr",
@@ -2263,22 +2157,7 @@
       "timezone": null,
       "id": 110
     },
-    {
-      "name": "UPS-QAShort1",
-      "description": null,
-      "address1": "dev-test",
-      "address2": null,
-      "lat": 38.65,
-      "lon": -121.38,
-      "city": "Sacramento",
-      "state": "California",
-      "zip": "95652",
-      "country": "United States",
-      "notes": null,
-      "accessHours": null,
-      "timezone": null,
-      "id": 27
-    },
+    
     {
       "name": "Clark St SW",
       "description": null,
@@ -2936,30 +2815,6 @@
       "id": 375
     },
     {
-      "name": "Dylan's Castle",
-      "description": null,
-      "address1": "608 S margaret ave",
-      "address2": "deer park wa ",
-      "lat": 47.948602,
-      "lon": -117.4737252,
-      "city": "Deer Park",
-      "state": "Washington",
-      "zip": "99006",
-      "country": "United States",
-      "notes": "🔜🔛🔝",
-      "accessHours": {
-        "monday": [],
-        "tuesday": [],
-        "wednesday": [],
-        "thursday": [],
-        "friday": [],
-        "saturday": [],
-        "sunday": []
-      },
-      "timezone": "US/Pacific",
-      "id": 415
-    },
-    {
       "name": "S Independence St",
       "description": null,
       "address1": "112 S Independence St",
@@ -3279,22 +3134,7 @@
       "timezone": null,
       "id": 214
     },
-    {
-      "name": "Dardo's Location",
-      "description": null,
-      "address1": "dev-test",
-      "address2": null,
-      "lat": -32.172939,
-      "lon": -59.403301,
-      "city": "Macia",
-      "state": "Entre Ríos",
-      "zip": "3177",
-      "country": "Argentina",
-      "notes": null,
-      "accessHours": null,
-      "timezone": null,
-      "id": 9
-    },
+    
     {
       "name": "Santa Monica Blvd",
       "description": null,
@@ -3927,22 +3767,7 @@
       "timezone": "US/Eastern",
       "id": 325
     },
-    {
-      "name": "QA- Scott3",
-      "description": null,
-      "address1": "dev-test",
-      "address2": null,
-      "lat": 38.65,
-      "lon": -121.38,
-      "city": "McClellan Park",
-      "state": "California",
-      "zip": "95652",
-      "country": "United States",
-      "notes": null,
-      "accessHours": null,
-      "timezone": null,
-      "id": 90
-    },
+    
     {
       "name": "Queens Blvd",
       "description": null,
@@ -4303,22 +4128,7 @@
       "timezone": "EST5EDT",
       "id": 494
     },
-    {
-      "name": "Max's Location",
-      "description": null,
-      "address1": "dev-test",
-      "address2": null,
-      "lat": -34.547657,
-      "lon": -58.574553,
-      "city": "Villa Ballester",
-      "state": "Buenos Aires",
-      "zip": "1653",
-      "country": "Argentina",
-      "notes": null,
-      "accessHours": null,
-      "timezone": null,
-      "id": 118
-    },
+    
     {
       "name": "Gate C",
       "description": null,
@@ -4543,30 +4353,7 @@
       "timezone": "CST6CDT",
       "id": 360
     },
-    {
-      "name": "Roro Anshul Noida",
-      "description": null,
-      "address1": "Godrej Aria",
-      "address2": "Gurugram",
-      "lat": 28.358731,
-      "lon": 76.97276710000001,
-      "city": "Gurugram",
-      "state": "Haryana",
-      "zip": "122051",
-      "country": "India",
-      "notes": null,
-      "accessHours": {
-        "monday": [],
-        "tuesday": [],
-        "wednesday": [],
-        "thursday": [],
-        "friday": [],
-        "saturday": [],
-        "sunday": []
-      },
-      "timezone": "Asia/Kolkata",
-      "id": 367
-    },
+    
     {
       "name": "High St",
       "description": null,
@@ -4671,22 +4458,7 @@
       "timezone": "PST8PDT",
       "id": 719
     },
-    {
-      "name": "UPS-QAShort3",
-      "description": null,
-      "address1": "dev-test",
-      "address2": null,
-      "lat": 38.65,
-      "lon": -121.38,
-      "city": "Sacramento",
-      "state": "California",
-      "zip": "95652",
-      "country": "United States",
-      "notes": null,
-      "accessHours": null,
-      "timezone": null,
-      "id": 32
-    },
+    
     {
       "name": "",
       "description": null,
@@ -4839,22 +4611,7 @@
       "timezone": null,
       "id": 139
     },
-    {
-      "name": "Cesar's Location",
-      "description": null,
-      "address1": "dev-test",
-      "address2": null,
-      "lat": 20.590451,
-      "lon": -100.396126,
-      "city": "Santiago de Querétaro",
-      "state": "Querétaro",
-      "zip": "76000",
-      "country": "Mexico",
-      "notes": null,
-      "accessHours": null,
-      "timezone": null,
-      "id": 12
-    },
+    
     {
       "name": "Maple Ave",
       "description": null,
@@ -5471,46 +5228,8 @@
       "timezone": "CST6CDT",
       "id": 617
     },
-    {
-      "name": "Roro Avanya",
-      "description": null,
-      "address1": "I-36 Govidnpuram",
-      "address2": "Ghaziabad",
-      "lat": 28.685047841281428,
-      "lon": 77.48324399739714,
-      "city": "Ghaziabad",
-      "state": "Uttar Pradesh",
-      "zip": "201013",
-      "country": "India",
-      "notes": null,
-      "accessHours": {
-        "monday": [],
-        "tuesday": [],
-        "wednesday": [],
-        "thursday": [],
-        "friday": [],
-        "saturday": [],
-        "sunday": []
-      },
-      "timezone": "Asia/Kolkata",
-      "id": 351
-    },
-    {
-      "name": "VAN-UPS1",
-      "description": null,
-      "address1": "dev-test",
-      "address2": null,
-      "lat": 39.732031,
-      "lon": -121.794061,
-      "city": "Chico",
-      "state": "California",
-      "zip": "95928",
-      "country": "United States",
-      "notes": null,
-      "accessHours": null,
-      "timezone": null,
-      "id": 116
-    },
+    
+   
     {
       "name": "S Andrews Ave",
       "description": null,
@@ -5751,22 +5470,7 @@
       "timezone": "US/Eastern",
       "id": 345
     },
-    {
-      "name": "Gerardo's Location",
-      "description": null,
-      "address1": "dev-test",
-      "address2": null,
-      "lat": 19.1849402,
-      "lon": -99.6122445,
-      "city": "México",
-      "state": "Estado de México",
-      "zip": "52227",
-      "country": "Mexico",
-      "notes": null,
-      "accessHours": null,
-      "timezone": null,
-      "id": 92
-    },
+    
     {
       "name": "N Capitol St NW",
       "description": null,
@@ -6215,22 +5919,7 @@
       "timezone": "US/Pacific",
       "id": 280
     },
-    {
-      "name": "Gerardo's Location",
-      "description": null,
-      "address1": "dev-test",
-      "address2": null,
-      "lat": 19.185778,
-      "lon": -99.611139,
-      "city": "México",
-      "state": "Estado de México",
-      "zip": "52227",
-      "country": "Mexico",
-      "notes": null,
-      "accessHours": null,
-      "timezone": null,
-      "id": 121
-    },
+    
     {
       "name": "JAX-26",
       "description": null,
@@ -8055,22 +7744,7 @@
       "timezone": null,
       "id": 203
     },
-    {
-      "name": "Max's Location",
-      "description": "Max Power Location",
-      "address1": "dev-test",
-      "address2": null,
-      "lat": -33.67831,
-      "lon": -65.46023,
-      "city": "Villa Mercedes",
-      "state": "San Luis",
-      "zip": "5730",
-      "country": "Argentina",
-      "notes": null,
-      "accessHours": null,
-      "timezone": null,
-      "id": 8
-    },
+    
     {
       "name": "Shops at Quail Creek",
       "description": null,
@@ -8823,22 +8497,7 @@
       "timezone": "US/Central",
       "id": 744
     },
-    {
-      "name": "Mukesh's Location",
-      "description": null,
-      "address1": "dev-test",
-      "address2": null,
-      "lat": 11.085237338202266,
-      "lon": 76.99782931510302,
-      "city": "Coimbatore",
-      "state": "Tamil Nadu",
-      "zip": "641035",
-      "country": "India",
-      "notes": null,
-      "accessHours": null,
-      "timezone": null,
-      "id": 200
-    },
+   
     {
       "name": "E University Blvd",
       "description": null,
@@ -8927,22 +8586,7 @@
       "timezone": "MST7MDT",
       "id": 590
     },
-    {
-      "name": "Tad's Location",
-      "description": null,
-      "address1": "dev-test",
-      "address2": null,
-      "lat": 27.201452,
-      "lon": -80.200622,
-      "city": "Stuart",
-      "state": "Florida",
-      "zip": "34996",
-      "country": "United States",
-      "notes": null,
-      "accessHours": null,
-      "timezone": null,
-      "id": 119
-    },
+   
     {
       "name": "Manifest-C",
       "description": null,
@@ -9287,22 +8931,7 @@
       "timezone": "America/New_York",
       "id": 310
     },
-    {
-      "name": "UPS-QATall1",
-      "description": null,
-      "address1": "dev-test",
-      "address2": null,
-      "lat": 38.65,
-      "lon": -121.38,
-      "city": "Sacramento",
-      "state": "California",
-      "zip": "95652",
-      "country": "United States",
-      "notes": null,
-      "accessHours": null,
-      "timezone": null,
-      "id": 28
-    },
+    
     {
       "name": "Visitor info center",
       "description": null,
@@ -10119,30 +9748,7 @@
       "timezone": "CST6CDT",
       "id": 655
     },
-    {
-      "name": "Harbor Island",
-      "description": null,
-      "address1": "Dunmore Town",
-      "address2": "EL 25140",
-      "lat": 25.50011,
-      "lon": -76.6340511,
-      "city": "Dunmore Town",
-      "state": "Harbour Island",
-      "zip": "EL 25140",
-      "country": "The Bahamas",
-      "notes": null,
-      "accessHours": {
-        "monday": [],
-        "tuesday": [],
-        "wednesday": [],
-        "thursday": [],
-        "friday": [],
-        "saturday": [],
-        "sunday": []
-      },
-      "timezone": "US/Eastern",
-      "id": 365
-    },
+  
     {
       "name": "Locust St",
       "description": null,
@@ -10423,22 +10029,7 @@
       "timezone": "PST8PDT",
       "id": 421
     },
-    {
-      "name": "Keith_Test_7Door",
-      "description": null,
-      "address1": "dev-test",
-      "address2": null,
-      "lat": 38.67229650613254,
-      "lon": -121.2620281392868,
-      "city": "Citrus Heights",
-      "state": "California",
-      "zip": "95628",
-      "country": "United States",
-      "notes": null,
-      "accessHours": null,
-      "timezone": null,
-      "id": 248
-    },
+    
     {
       "name": "AUS-8",
       "description": null,
@@ -10455,30 +10046,7 @@
       "timezone": null,
       "id": 208
     },
-    {
-      "name": "Roro Harshita",
-      "description": null,
-      "address1": "412 Sadar Bazar vijay garments",
-      "address2": "Jhansi",
-      "lat": 25.438885915452452,
-      "lon": 78.5831632493262,
-      "city": "Jhansi",
-      "state": "Uttar Pradesh",
-      "zip": "284001",
-      "country": "India",
-      "notes": null,
-      "accessHours": {
-        "monday": [],
-        "tuesday": [],
-        "wednesday": [],
-        "thursday": [],
-        "friday": [],
-        "saturday": [],
-        "sunday": []
-      },
-      "timezone": "Asia/Kolkata",
-      "id": 392
-    },
+    
     {
       "name": "Cook St",
       "description": null,

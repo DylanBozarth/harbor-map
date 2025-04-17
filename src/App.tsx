@@ -1,16 +1,13 @@
-import './App.css'
-import ImTheMap from './map';
-import { KeycloakProvider } from "keycloak-react-web";
-
+import "./App.css"
+import MapComponent from "./map"
 
 function App() {
   return (
-    <>
-      <div>
-      <ImTheMap />
-        </div>
-    </>
+    <div className="app-fullscreen">
+      <MapComponent width="100%" height="100vh" />
+    </div>
   )
 }
 
 export default App
+
