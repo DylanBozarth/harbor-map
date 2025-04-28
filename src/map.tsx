@@ -79,7 +79,7 @@ const MapComponent = ({
   const fetchLocalLocations = async () => {
     setIsLoading(true);
     try {
-      const accessToken = import.meta.env.VITE_PROD_ACCESS_TOKEN;
+      /*const accessToken = import.meta.env.VITE_PROD_ACCESS_TOKEN;
       const clientId = import.meta.env.VITE_PROD_CLIENT;
       const clientSecret = import.meta.env.VITE_PROD_SECRET;
   /*
