@@ -92,7 +92,7 @@ const MapComponent = ({
         },
       });
   */
-      const response = await fetch("/prod-locations.json");
+      const response = await fetch("prod-locations.json");
       const data = await response.json();
       console.log(data);
       setLocations(data);
@@ -242,7 +242,7 @@ const MapComponent = ({
                           <p>
                             {location.city}, {location.state} {location.zip}
                           </p>
-                          {/*<button
+                          <button
                             className="harbor-info-button"
                             onClick={(e) => {
                               e.stopPropagation();
@@ -251,7 +251,7 @@ const MapComponent = ({
                             }}
                           >
                             View Details
-                          </button> */}
+                          </button>
                         </div>
                       </InfoWindow>
                     )}
