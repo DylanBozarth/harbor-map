@@ -99,7 +99,6 @@
     background-position: center;
     border-radius: 50%;
     cursor: pointer;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
   }
   
   /*
@@ -175,4 +174,22 @@
     height: 100% !important;
   }
   
+  .harbor-info-button {
+    display: inline-block;
+    padding: 8px 12px;
+    background-color: #0066cc;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 14px;
+    margin-top: 8px;
+  }
+  
+  .harbor-info-button:hover {
+    background-color: #0052a3;
+    text-decoration: none;
+    color: white;
+  }
   
